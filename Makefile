@@ -1,3 +1,3 @@
-PROJECT_NAME := living_stream_m3u_aac
+PROJECT_NAME := play_http_mp3
 include $(ADF_PATH)/project.mk
 
